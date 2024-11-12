@@ -1,8 +1,8 @@
 {TOC}  
-{TITLE} Template use
+{TITLE} Sveglia PUF '24
 
-# Example use
-<span class="ut">Subtitle</span>
+# Pellegrini uniti nella fede
+<span class="ut">Camminare senza stancarsi.</span>
 
 ## Title 2
 
