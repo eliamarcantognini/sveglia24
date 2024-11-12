@@ -1,22 +1,40 @@
-{TOC}  
 {TITLE} Sveglia PUF '24
 
 # Pellegrini uniti nella fede
 <span class="ut">Camminare senza stancarsi.</span>
 
-## Title 2
+## CANTO INIZIALE
 
-Paragraph one, simple text.
+## Dal Libro di Isaia
 
-### Title 3
+TESTO
 
-Paragraph with:
+## Riflessione
 
-- Bulleted;
-- List.
+## CANTO
 
-Eheh.
+## Chi cammina con me questa sera?
+DESCRIZIONE DELLA DIVISIONE IN TERNE
+### Cammino
 
-#### Title 4
+## Prima sosta
+<span class="ut">Le nostre stanchezze</span>  
 
-<span style="color: red">Custom style! Use span for that. :-)</span>
+### Dal messaggio del Papa
+
+TESTO
+
+### CANTO
+
+TESTO
+
+### SPUNTI
+
+TESTO
+
+### Cammino
+
+## Seconda sosta
+<span class="ut">Le nostre speranze</span>  
+
+
