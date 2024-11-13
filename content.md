@@ -119,7 +119,28 @@ TESTO TODO
 
 ### Canto | Mi basta la Tua grazie
 
-TESTO TODO
+Quando sono debole allora sono forte  
+Perché tu sei la mia forza  
+Quando sono triste è in te che trovo gioia  
+Perché tu sei la mia gioia  
+Gesú, io confido in te  
+Gesú, mi basta la tua grazia  
+**RIT. Sei la mia forza, la mia salvezza**  
+**Sei la mia pace, sicuro rifugio**  
+**Nella tua grazia voglio restare**  
+**Santo Signore, sempre con te**  
+Quando sono povero (allora sono ricco) allora sono ricco  
+Perché tu sei la mia ricchezza  
+Quando son malato (è in te che trovo vita) è in te che trovo vita  
+Perché tu sei guarigione  
+Gesú, io confido in te  
+Gesú, mi basta la tua grazia  
+**RIT. Sei la mia forza, la mia salvezza**  
+**Sei la mia pace, sicuro rifugio**  
+**Nella tua grazia voglio restare**  
+**Santo Signore, sempre con te**  
+Quando solo debole allora sono forte  
+Perché tu sei la mia forza  
 
 ### TESTIMONIANZA
 
@@ -131,7 +152,23 @@ TESTO TODO
 
 ### Canto | Alleluia Cantate al Signore
 
-TESTO TODO
+**RIT. Alleluia, Alleluia, Alleluia, Alleluia (2v)**  
+Cantate al Signore un cantico nuovo,  
+tutta la terra canti al Signore.  
+Per tutta la terra si è accesa una luce,  
+uomini nuovi cantano in cor.  
+Un cantico nuovo di gioia infinita,  
+un canto d’amore a Dio fra noi,  
+Alleluia.  
+**RIT. Alleluia, Alleluia, Alleluia, Alleluia (2v)**  
+Un coro di voci s’innalza al Signore,  
+re della vita, luce del mondo.  
+Discende dal cielo un fuoco d’amore,  
+il paradiso canta con noi.  
+Un cantico nuovo di gioia infinita,  
+un canto d’amore a Dio fra noi,  
+Alleluia.  
+**RIT. Alleluia, Alleluia, Alleluia, Alleluia (2v)**  
 
 ## Dal Vangelo secondo Luca 
 
@@ -141,7 +178,29 @@ TESTO TODO
 
 ### Preghiera del Giubileo
 
-TESTO TODO
+Padre che sei nei cieli,  
+la fede che ci hai donato nel  
+tuo figlio Gesù Cristo, nostro fratello,  
+e la fiamma di carità  
+effusa nei nostri cuori dallo Spirito Santo,  
+ridestino in noi, la beata speranza  
+per l’avvento del tuo Regno.  
+La tua grazia ci trasformi  
+in coltivatori operosi dei semi evangelici  
+che lievitino l’umanità e il cosmo,  
+nell’attesa fiduciosa  
+dei cieli nuovi e della terra nuova,  
+quando vinte le potenze del Male,  
+si manifesterà per sempre la tua gloria.  
+La grazia del Giubileo  
+ravvivi in noi Pellegrini di Speranza,  
+l’anelito verso i beni celesti  
+e riversi sul mondo intero  
+la gioia e la pace  
+del nostro Redentore.  
+A te Dio benedetto in eterno  
+sia lode e gloria nei secoli.  
+Amen.
 
 ### Benedizione finale
 
